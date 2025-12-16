@@ -29,8 +29,8 @@ button.addEventListener("click", function(e){
 
 })
 ```
-## project 2 solution
- const form = document.querySelector('form');
+## project 2 solution## ```
+``` const form = document.querySelector('form');
  form.addEventListener('submit',function(e){
    e.preventDefault();
    const height= parseInt(document.querySelector('#height').value);
